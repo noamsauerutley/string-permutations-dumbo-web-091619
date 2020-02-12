@@ -18,3 +18,7 @@ function findAllPermutations(string){
   }
   return permutationsArray
 }
+
+
+
+findAllPermutations("abc")
